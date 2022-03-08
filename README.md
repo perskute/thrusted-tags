@@ -8,4 +8,4 @@ Tags can be organized in Groups, so that it is easy to find all related tags and
 
 Visit us at [Skyvekraft AS](https://skyvekraft.com)
 
-More information on Thusted Tags: [https://www.skyvekraft.com/thrustedtags/?lang=en](https://www.skyvekraft.com/thrustedtags/?lang=en) 
+More information on Thusted Tags: [https://www.skyvekraft.com/thrusted-tags/?lang=en](https://www.skyvekraft.com/thrusted-tags/?lang=en) 
